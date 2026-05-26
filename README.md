@@ -29,7 +29,7 @@ conda install -c conda-forge selenium pandas
 
 A **CSV file** with a column named `taxa` containing the fungal taxa names to search.
 
-**Example (`yeastlisted_uniq.txt`):**
+**Example (`input_file.txt`):**
 
 ```
 taxa
@@ -131,7 +131,7 @@ At the end of the run, the actual elapsed time is printed:
 ```
 [DONE] Finished processing 42 taxa.
 [DONE] Total runtime: 0:05:12
-[DONE] Results saved to: D:\...\yeastlisted_uniq_isyeast.txt
+[DONE] Results saved to: D:\...\output_file.txt
 ```
 
 ---
@@ -191,18 +191,18 @@ Run in headless mode? (browser window hidden) [y/n]: y
   ...
 [10/42] Searching for Rhodotorula mucilaginosa...
   ...
-  [SAVE] Checkpoint [10/42] — 10 records written to ...\yeastlisted_uniq_isyeast.txt
+  [SAVE] Checkpoint [10/42] — 10 records written to ...\output_file.txt
   ...
 
 --- user presses Ctrl+C at taxon 25 ---
 
 [INTERRUPTED] Script stopped early — saving collected results...
-  [SAVE] Final — 25 records written to ...\yeastlisted_uniq_isyeast.txt
+  [SAVE] Final — 25 records written to ...\output_file.txt
 
 ============================================================
 [DONE] Processed 25 of 42 taxa.
 [DONE] Total runtime: 0:02:57
-[DONE] Results saved to: D:\...\yeastlisted_uniq_isyeast.txt
+[DONE] Results saved to: D:\...\output_file.txt
 ============================================================
 ```
 
