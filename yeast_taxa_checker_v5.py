@@ -20,8 +20,8 @@ import time
  
 # ── Paths ──────────────────────────────────────────────────────────────────────
 ## Change the input and output path here!!
-inputfile  = r'D:\B303\PlantMycobiome\___manuscript\Metabarcoding\yeastlisted_uniq.txt'
-outputfile = r'D:\B303\PlantMycobiome\___manuscript\Metabarcoding\yeastlisted_uniq_isyeast_interrupted.txt'
+inputfile  = r'D:\path\to\your\input_file.txt'
+outputfile = r'D:\path\to\your\output_file.txt'
  
 # ── Settings ───────────────────────────────────────────────────────────────────
 SECONDS_PER_TAXA  = 7   # Estimated seconds per taxon (adjust if needed)
