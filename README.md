@@ -169,7 +169,7 @@ The script is designed to never lose collected data:
 ## Example Run
 
 ```bash
-python scapy_yeastorg_species_v5.py
+python yeast_taxa_checker_v5.py
 ```
 
 Console output during a run:
