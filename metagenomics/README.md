@@ -43,7 +43,7 @@ The classification relies on a custom database combining RefSeq Fungi and JGI My
 
 The parsing step is divided into two distinct subdirectories based on the dataset structure: **EMP** (Earth Microbiome Project) and **food**.
 
-### Cohort A: Earth Microbiome Project (EMP)
+### Earth Microbiome Project (EMP)
 The EMP dataset requires handling cases where multiple sequencing runs map to a single sample ID.
 
 #### Script: `reads_file.sh`
@@ -73,7 +73,7 @@ The EMP dataset requires handling cases where multiple sequencing runs map to a 
 
 ---
 
-### Cohort B: Food Microbiomes
+### Food Microbiomes
 The Food dataset has a strict 1:1 mapping between sequencing runs and sample IDs, and utilizes a dedicated metadata file (`cFMD_metadata.tsv`) for downstream filtering.
 
 #### Script: `reads_file.sh`
