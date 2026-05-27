@@ -1,0 +1,37 @@
+category	Source	Yeast Percentage	n_samples
+Animal corpus	ITS	0.0	4
+Animal corpus	Euk	0.0	4
+Animal corpus	Kraken	50.0	4
+Animal distal gut	ITS	75.67567567567568	37
+Animal distal gut	Euk	18.91891891891892	37
+Animal distal gut	Kraken	91.8918918918919	37
+Animal proximal gut	ITS	0.0	2
+Animal proximal gut	Euk	0.0	2
+Animal proximal gut	Kraken	50.0	2
+Animal secretion	ITS	0.0	11
+Animal secretion	Euk	0.0	11
+Animal secretion	Kraken	81.81818181818183	11
+Fungus corpus	ITS	0.0	7
+Fungus corpus	Euk	0.0	7
+Fungus corpus	Kraken	85.71428571428571	7
+Plant corpus	ITS	9.523809523809524	21
+Plant corpus	Euk	14.285714285714285	21
+Plant corpus	Kraken	61.904761904761905	21
+Plant surface	ITS	0.0	2
+Plant surface	Euk	0.0	2
+Plant surface	Kraken	0.0	2
+Sediment (non-saline)	ITS	83.33333333333334	12
+Sediment (non-saline)	Euk	16.666666666666664	12
+Sediment (non-saline)	Kraken	100.0	12
+Sediment (saline)	ITS	0.0	5
+Sediment (saline)	Euk	0.0	5
+Sediment (saline)	Kraken	80.0	5
+Soil (non-saline)	ITS	31.57894736842105	19
+Soil (non-saline)	Euk	5.263157894736842	19
+Soil (non-saline)	Kraken	84.21052631578947	19
+Water (non-saline)	ITS	0.0	2
+Water (non-saline)	Euk	0.0	2
+Water (non-saline)	Kraken	100.0	2
+Water (saline)	ITS	0.0	3
+Water (saline)	Euk	0.0	3
+Water (saline)	Kraken	100.0	3
